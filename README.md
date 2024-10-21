@@ -1,4 +1,4 @@
-## DEMore-Net
+## LPCDiff
 
 # Code for Real-Scene Image Dehazing via Laplacian Pyramid-based Conditional Diffusion Model
 
