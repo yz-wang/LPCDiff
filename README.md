@@ -1,5 +1,5 @@
 # Real-Scene Image Dehazing via Laplacian Pyramid-Based Conditional Diffusion Model (TMM'2025)
-Authors: Yongzhen Wang, Jie Sun, Heng Liu, Xiao-Ping Zhang and Mingqiang Wei
+Authors: Yongzhen Wang, Jie Sun, Heng Liu, Xiao-Ping Zhang, and Mingqiang Wei
 
 [[Paper Link]](https://ieeexplore.ieee.org/document/11249427)
 
@@ -10,7 +10,7 @@ Recent diffusion models have demonstrated exceptional efficacy across various im
 #### If you find the resource useful, please cite the following :- )
 
 ```
-@ARTICLE{11249427,
+@ARTICLE{Wang_2025_TMM,
   author={Wang, Yongzhen and Sun, Jie and Liu, Heng and Zhang, Xiao-Ping and Wei, Mingqiang},
   journal={IEEE Transactions on Multimedia}, 
   title={Real-Scene Image Dehazing Via Laplacian Pyramid-Based Conditional Diffusion Model}, 
